@@ -14,6 +14,6 @@ This repository contains:
 
 ### Reference
 If you use these resources, please cite:  
-Teh I, Shelley D, Boyle JH, Zhou F, Poenar A-M, Sharrack N, Foster RJ, Yuldasheva NY, Parker GJM, Dall'Armellina E, Plein S, Schneider JE, Szczepankiewicz F. Cardiac q-space trajectory imaging (QTI) by motion-compensated tensor-valued diffusion encoding in human heart in vivo. MRM 2023. Doi: 10.1002/mrm.29637
+[Teh I, Shelley D, Boyle JH, Zhou F, Poenar A-M, Sharrack N, Foster RJ, Yuldasheva NY, Parker GJM, Dall'Armellina E, Plein S, Schneider JE, Szczepankiewicz F. Cardiac q-space trajectory imaging (QTI) by motion-compensated tensor-valued diffusion encoding in human heart in vivo. MRM 2023. Doi: 10.1002/mrm.29637](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29637)
 
 ### Related resources can be found at the [FWF sequence GIT repository](https://github.com/filip-szczepankiewicz/fwf_seq_resources)
